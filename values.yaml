@@ -7,5 +7,5 @@ backendImage: lemonday/todo-backend
 backendVersion: 340770db
 
 enabledFeatures:
-  metrics: true
+  metrics: false
   ingress: false

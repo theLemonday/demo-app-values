@@ -1,10 +1,10 @@
 ---
 frontendImage: lemonday/todo-frontend
-frontendVersion: 340770db
+frontendVersion: 35d0674d
 frontendNodePort: 30080
 
 backendImage: lemonday/todo-backend
-backendVersion: 340770db
+backendVersion: 35d0674d
 
 enabledFeatures:
   metrics: false
